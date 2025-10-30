@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs & env
+*.log
+.env
+
+# Build artifacts (adjust as needed)
+dist/
+build/
+node_modules/
